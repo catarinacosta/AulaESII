@@ -15,7 +15,11 @@ public class AulaESII {
 	 * @param args the command line arguments
 	 */
 	public static void main(String[] args) {
-		// TODO code application logic here
+
+		Calculadora calculadora = new Calculadora();
+		int soma = calculadora.soma();
+		System.out.println("Resultado = " + soma);
+		
 	}
 	
 }
