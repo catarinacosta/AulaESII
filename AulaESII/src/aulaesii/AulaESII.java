@@ -20,6 +20,7 @@ public class AulaESII {
 
 		Calculadora calculadora = new Calculadora();
 		int soma = calculadora.soma();
+		System.out.println("Professora vai ter aula dia 7 de Dezembro?");
 		System.out.println("Resultado = " + soma);
 		
 	}
