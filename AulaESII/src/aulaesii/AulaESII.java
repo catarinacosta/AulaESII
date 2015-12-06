@@ -10,6 +10,8 @@ package aulaesii;
  * @author Catarina
  */
 public class AulaESII {
+	
+	Ufac u = new Ufac();
 
 	/**
 	 * @param args the command line arguments
@@ -19,6 +21,13 @@ public class AulaESII {
 		Calculadora calculadora = new Calculadora();
 		int soma = calculadora.soma();
 		System.out.println("Resultado = " + soma);
+		
+	}
+	
+	boolean ufac() {
+		
+		String s = u.teste();
+		return s.equals("UFAC");
 		
 	}
 	
