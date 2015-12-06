@@ -1,0 +1,10 @@
+import java.util.Scanner;
+
+public class teste{
+    public static void main(String[] args) {
+        Scanner userInputScanner = new Scanner(System.in);
+        System.out.print("Qual o seu nome? ");
+        String userInputName = userInputScanner.nextLine();
+        System.out.println("Olá " + userInputName + "!");
+    }
+}
