@@ -9,5 +9,7 @@
  * @author Catarina
  */
 public class Test3 {
-	
+
+	System.out.println("Challenge done!");
+
 }
