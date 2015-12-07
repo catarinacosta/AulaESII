@@ -9,5 +9,5 @@
  * @author Catarina
  */
 public class Test2 {
-	
+	System.out.println("Será que agora eu tenho o poder de alterar?")
 }
