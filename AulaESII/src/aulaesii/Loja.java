@@ -7,7 +7,7 @@ public class Loja {
 	
 
 public static void main(String[]args){
-	System.out.print("--Relacao de produtos para pesquisa de preco--\n");
+	System.out.print("--Relação de produtos--\n");
     System.out.print(" 1 - Computador;\n");
     System.out.print(" 2 - Smartphone;\n");
     System.out.print(" 3 - Fone de ouvido;\n");
