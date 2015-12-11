@@ -16,6 +16,8 @@ public static void main(String[]args){
     System.out.print("\n Informe qual produto desejado: ");
     @SuppressWarnings("unused")
 	int nprod = leia.nextInt();
+
+   System.out.print("Commitando a issue #6")
     
 }
 }
