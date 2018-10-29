@@ -8,7 +8,7 @@ public class Calculadora {
 	
 	int soma() {
 		
-		a = 1;
+		a = 10;
 		b = 1;
 		resultado = a + b;
 		return resultado;
