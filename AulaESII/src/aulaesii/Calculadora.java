@@ -6,11 +6,11 @@ public class Calculadora {
 	private int b;
 	private int resultado;
 
-	int soma() {
+	int subtracao() {
 
 		a = 7;
 		b = 9;
-		resultado = a + b;
+		resultado = a - b;
 		return resultado;
 
 	}
