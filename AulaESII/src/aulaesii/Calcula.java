@@ -13,7 +13,7 @@ import javax.swing.JOptionPane;
  */
 public class Calcula {
     public static void main(String args[]){
-      int ar;
+      int arr;
       int br;
       int result;
        ar = Integer.parseInt(JOptionPane.showInputDialog("Inserir o primeiro numero"));
